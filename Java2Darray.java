@@ -37,7 +37,6 @@ Sample Input
 0 0 0 2 0 0
 0 0 1 2 4 0
 Sample Output
-
 19 */
 import java.io.*;
 import java.math.*;
@@ -50,9 +49,6 @@ import java.util.regex.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
-
-
-
 public class Java2Darray {
     public static void main(String[] args)throws IOException{
          BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
